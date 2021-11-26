@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LuisSanchez_3B/1.0.0": {
+        "runtime": {
+          "LuisSanchez_3B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuisSanchez_3B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

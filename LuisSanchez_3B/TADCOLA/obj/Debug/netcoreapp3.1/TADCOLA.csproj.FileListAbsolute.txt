@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\bin\Debug\netcoreapp3.1\TADCOLA.exe
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\bin\Debug\netcoreapp3.1\TADCOLA.deps.json
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\bin\Debug\netcoreapp3.1\TADCOLA.runtimeconfig.json
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\bin\Debug\netcoreapp3.1\TADCOLA.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\bin\Debug\netcoreapp3.1\TADCOLA.dll
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\bin\Debug\netcoreapp3.1\TADCOLA.pdb
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.AssemblyInfo.cs
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.dll
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.pdb
+C:\Users\usuario\source\repos\LuisSanchez_3B\TADCOLA\obj\Debug\netcoreapp3.1\TADCOLA.genruntimeconfig.cache

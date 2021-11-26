@@ -1,0 +1,14 @@
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\bin\Debug\netcoreapp3.1\LuisSanchez_3B.exe
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\bin\Debug\netcoreapp3.1\LuisSanchez_3B.deps.json
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\bin\Debug\netcoreapp3.1\LuisSanchez_3B.runtimeconfig.json
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\bin\Debug\netcoreapp3.1\LuisSanchez_3B.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\bin\Debug\netcoreapp3.1\LuisSanchez_3B.dll
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\bin\Debug\netcoreapp3.1\LuisSanchez_3B.pdb
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.AssemblyInfo.cs
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.dll
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.pdb
+C:\Users\usuario\source\repos\LuisSanchez_3B\LuisSanchez_3B\obj\Debug\netcoreapp3.1\LuisSanchez_3B.genruntimeconfig.cache
